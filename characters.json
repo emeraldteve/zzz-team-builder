@@ -1,0 +1,494 @@
+{
+  "characters": [
+    {
+      "id": "nicole_demara",
+      "name": "Nicole Demara",
+      "faction": "Cunning Hares",
+      "role": "Support",
+      "attribute": "Ether",
+      "synergies": [
+        "Ether",
+        "Cunning Hares"
+      ],
+      "rarity": "A",
+      "isF2P": true,
+      "image": "characters/Nicole_Demara.webp"
+    },
+    {
+      "id": "anby_demara",
+      "name": "Anby Demara",
+      "faction": "Cunning Hares",
+      "role": "Stun",
+      "attribute": "Electric",
+      "synergies": [
+        "Electric",
+        "Cunning Hares"
+      ],
+      "rarity": "A",
+      "isF2P": true,
+      "image": "characters/Anby_Demara.webp"
+    },
+    {
+      "id": "billy_kid",
+      "name": "Billy Kid",
+      "faction": "Cunning Hares",
+      "role": "Attack",
+      "attribute": "Physical",
+      "synergies": [
+        "Physical",
+        "Cunning Hares"
+      ],
+      "rarity": "A",
+      "isF2P": true,
+      "image": "characters/Billy_Kid.webp"
+    },
+    {
+      "id": "nekomiya_mana",
+      "name": "Nekomiya Mana",
+      "faction": "Cunning Hares",
+      "role": "Attack",
+      "attribute": "Physical",
+      "synergies": [
+        "Physical",
+        "Cunning Hares"
+      ],
+      "rarity": "S",
+      "isF2P": false,
+      "image": "characters/Nekomiya_Mana.webp"
+    },
+    {
+      "id": "koleda_belobog",
+      "name": "Koleda Belobog",
+      "faction": "Belobog Heavy Industries",
+      "role": "Stun",
+      "attribute": "Fire",
+      "rarity": "S",
+      "isF2P": false,
+      "image": "characters/Koleda_Belobog.webp",
+      "synergies": [
+        "Fire",
+        "Belobog Heavy Industries"
+      ]
+    },
+    {
+      "id": "grace_howard",
+      "name": "Grace Howard",
+      "faction": "Belobog Heavy Industries",
+      "role": "Anomaly",
+      "attribute": "Electric",
+      "synergies": [
+        "Electric",
+        "Belobog Heavy Industries"
+      ],
+      "rarity": "S",
+      "isF2P": false,
+      "image": "characters/Grace_Howard.webp"
+    },
+    {
+      "id": "ben_bigger",
+      "name": "Ben Bigger",
+      "faction": "Belobog Heavy Industries",
+      "role": "Defense",
+      "attribute": "Fire",
+      "synergies": [
+        "Fire",
+        "Belobog Heavy Industries"
+      ],
+      "rarity": "A",
+      "isF2P": true,
+      "image": "characters/Ben_Bigger.webp"
+    },
+    {
+      "id": "anton_ivanov",
+      "name": "Anton Ivanov",
+      "faction": "Belobog Heavy Industries",
+      "role": "Attack",
+      "attribute": "Electric",
+      "synergies": [
+        "Electric",
+        "Belobog Heavy Industries"
+      ],
+      "rarity": "A",
+      "isF2P": true,
+      "image": "characters/Anton_Ivanov.webp"
+    },
+    {
+      "id": "alexandrina_sebastiane",
+      "name": "Alexandrina Sebastiane",
+      "faction": "Victoria Housekeeping Co.",
+      "role": "Support",
+      "attribute": "Electric",
+      "synergies": [
+        "Electric",
+        "Victoria Housekeeping Co."
+      ],
+      "rarity": "S",
+      "isF2P": false,
+      "image": "characters/Alexandrina_Sebastiane.webp"
+    },
+    {
+      "id": "ellen_joe",
+      "name": "Ellen Joe",
+      "faction": "Victoria Housekeeping Co.",
+      "role": "Attack",
+      "attribute": "Ice",
+      "synergies": [
+        "Ice",
+        "Victoria Housekeeping Co."
+      ],
+      "rarity": "S",
+      "isF2P": false,
+      "image": "characters/Ellen_Joe.webp"
+    },
+    {
+      "id": "von_lycaon",
+      "name": "Von Lycaon",
+      "faction": "Victoria Housekeeping Co.",
+      "role": "Stun",
+      "attribute": "Ice",
+      "synergies": [
+        "Ice",
+        "Victoria Housekeeping Co."
+      ],
+      "rarity": "S",
+      "isF2P": false,
+      "image": "characters/Von_Lycaon.webp"
+    },
+    {
+      "id": "corin_wickes",
+      "name": "Corin Wickes",
+      "faction": "Victoria Housekeeping Co.",
+      "role": "Attack",
+      "attribute": "Physical",
+      "synergies": [
+        "Physical",
+        "Victoria Housekeeping Co."
+      ],
+      "rarity": "A",
+      "isF2P": true,
+      "image": "characters/Corin_Wickes.webp"
+    },
+    {
+      "id": "luciana_de_montefio",
+      "name": "Lucy",
+      "faction": "Sons of Calydon",
+      "role": "Support",
+      "attribute": "Fire",
+      "rarity": "A",
+      "isF2P": false,
+      "image": "characters/Lucy.webp",
+      "synergies": [
+        "Fire",
+        "Sons of Calydon"
+      ]
+    },
+    {
+      "id": "piper_wheel",
+      "name": "Piper Wheel",
+      "faction": "Sons of Calydon",
+      "role": "Anomaly",
+      "attribute": "Physical",
+      "synergies": [
+        "Physical",
+        "Sons of Calydon"
+      ],
+      "rarity": "A",
+      "isF2P": false,
+      "image": "characters/Piper_Wheel.webp"
+    },
+    {
+      "id": "caesar_king",
+      "name": "Caesar King",
+      "faction": "Sons of Calydon",
+      "role": "Defense",
+      "attribute": "Physical",
+      "rarity": "S",
+      "isF2P": false,
+      "image": "characters/Caesar_King.webp",
+      "synergies": [
+        "Physical",
+        "Sons of Calydon"
+      ]
+    },
+    {
+      "id": "burnice_white",
+      "name": "Burnice White",
+      "faction": "Sons of Calydon",
+      "role": "Anomaly",
+      "attribute": "Fire",
+      "rarity": "A",
+      "isF2P": false,
+      "image": "characters/Burnice_White.webp",
+      "synergies": [
+        "Fire",
+        "Sons of Calydon"
+      ]
+    },
+    {
+      "id": "lighter",
+      "name": "Lighter",
+      "faction": "Sons of Calydon",
+      "role": "Stun",
+      "attribute": "Fire",
+      "synergies": [
+        "Fire",
+        "Sons of Calydon"
+      ],
+      "rarity": "S",
+      "isF2P": false,
+      "image": "characters/Lighter.webp"
+    },
+    {
+      "id": "soldier_11",
+      "name": "Soldier 11",
+      "faction": "Obol Squad",
+      "role": "Attack",
+      "attribute": "Fire",
+      "rarity": "S",
+      "isF2P": false,
+      "image": "characters/Soldier_11.webp",
+      "synergies": [
+        "Fire",
+        "Obol Squad"
+      ]
+    },
+    {
+      "id": "trigger",
+      "name": "Trigger",
+      "faction": "Obol Squad",
+      "role": "Stun",
+      "attribute": "Electric",
+      "synergies": [
+        "Electric",
+        "Obol Squad"
+      ],
+      "rarity": "A",
+      "isF2P": false,
+      "image": "characters/Trigger.webp"
+    },
+    {
+      "id": "hoshimi_miyabi",
+      "name": "Hoshimi Miyabi",
+      "faction": "Section 6",
+      "role": "Anomaly",
+      "attribute": "Ice",
+      "synergies": [
+        "Ice",
+        "Section 6"
+      ],
+      "rarity": "A",
+      "isF2P": false,
+      "image": "characters/Hoshimi_Miyabi.webp"
+    },
+    {
+      "id": "soukaku",
+      "name": "Soukaku",
+      "faction": "Section 6",
+      "role": "Support",
+      "attribute": "Ice",
+      "synergies": [
+        "Ice",
+        "Section 6"
+      ],
+      "rarity": "A",
+      "isF2P": false,
+      "image": "characters/Soukaku.webp"
+    },
+    {
+      "id": "asaba_harumasa",
+      "name": "Asaba Harumasa",
+      "faction": "Section 6",
+      "role": "Attack",
+      "attribute": "Electric",
+      "synergies": [
+        "Electric",
+        "Section 6"
+      ],
+      "rarity": "A",
+      "isF2P": false,
+      "image": "characters/Asaba_Harumasa.webp"
+    },
+    {
+      "id": "tsukishiro_yanagi",
+      "name": "Tsukishiro Yanagi",
+      "faction": "Section 6",
+      "role": "Anomaly",
+      "attribute": "Electric",
+      "synergies": [
+        "Electric",
+        "Section 6"
+      ],
+      "rarity": "S",
+      "isF2P": false,
+      "image": "characters/Tsukishiro_Yanagi.webp"
+    },
+    {
+      "id": "zhu_yuan",
+      "name": "Zhu Yuan",
+      "faction": "Criminal Investigation Special Response Team",
+      "role": "Attack",
+      "attribute": "Ether",
+      "synergies": [
+        "Ether",
+        "Criminal Investigation Special Response Team"
+      ],
+      "rarity": "S",
+      "isF2P": false,
+      "image": "characters/Zhu_Yuan.webp"
+    },
+    {
+      "id": "seth_lowell",
+      "name": "Seth Lowell",
+      "faction": "Criminal Investigation Special Response Team",
+      "role": "Defense",
+      "attribute": "Electric",
+      "synergies": [
+        "Electric",
+        "Criminal Investigation Special Response Team"
+      ],
+      "rarity": "A",
+      "isF2P": false,
+      "image": "characters/Seth_Lowell.webp"
+    },
+    {
+      "id": "jane_doe",
+      "name": "Jane Doe",
+      "faction": "None",
+      "role": "Anomaly",
+      "attribute": "Physical",
+      "synergies": [
+        "Physical",
+        "None"
+      ],
+      "rarity": "S",
+      "isF2P": false,
+      "image": "characters/Jane_Doe.webp"
+    },
+    {
+      "id": "qingyi",
+      "name": "Qingyi",
+      "faction": "Criminal Investigation Special Response Team",
+      "role": "Stun",
+      "attribute": "Electric",
+      "synergies": [
+        "Electric",
+        "Criminal Investigation Special Response Team"
+      ],
+      "rarity": "S",
+      "isF2P": false,
+      "image": "characters/Qingyi.webp"
+    },
+    {
+      "id": "astra_yao",
+      "name": "Astra Yao",
+      "faction": "Stars of Lyra",
+      "role": "Support",
+      "attribute": "Ether",
+      "synergies": [
+        "Ether",
+        "Stars of Lyra"
+      ],
+      "rarity": "S",
+      "isF2P": false,
+      "image": "characters/Astra_Yao.webp"
+    },
+    {
+      "id": "evelyn_chevalier",
+      "name": "Evelyn Chevalier",
+      "faction": "Stars of Lyra",
+      "role": "Attack",
+      "attribute": "Fire",
+      "synergies": [
+        "Fire",
+        "Stars of Lyra"
+      ],
+      "rarity": "S",
+      "isF2P": false,
+      "image": "characters/Evelyn_Chevalier.webp"
+    },
+    {
+      "id": "pulchra",
+      "name": "Pulchra Fellini",
+      "attribute": "Physical",
+      "role": "Stun",
+      "faction": "Sons of Calydon",
+      "synergies": [
+        "Physical",
+        "Sons of Calydon"
+      ],
+      "image": "characters/Pulchra_Fellini.webp"
+    },
+    {
+      "id": "hugo",
+      "name": "Hugo Vlad",
+      "attribute": "Ice",
+      "role": "Attack",
+      "faction": "Mockingbird",
+      "synergies": [
+        "Ice",
+        "Mockingbird"
+      ],
+      "image": "characters/Hugo_Vlad.webp"
+    },
+    {
+      "id": "soldier0",
+      "name": "Soldier 0",
+      "attribute": "Electric",
+      "role": "Attack",
+      "faction": "New Eridu Public Security",
+      "synergies": [
+        "Electric",
+        "New Eridu Public Security"
+      ],
+      "image": "characters/Soldier_0.webp"
+    },
+    {
+      "id": "vivian",
+      "name": "Vivian",
+      "attribute": "Ether",
+      "role": "Anomaly",
+      "faction": "Mockingbird",
+      "synergies": [
+        "Ether",
+        "Mockingbird"
+      ],
+      "image": "characters/Vivian.webp"
+    },
+    {
+      "id": "jufufu",
+      "name": "Ju Fufu",
+      "attribute": "Fire",
+      "role": "Stun",
+      "faction": "Yunkui",
+      "synergies": [
+        "Fire",
+        "Yunkui"
+      ],
+      "image": "characters/placeholder.webp"
+    },
+    {
+      "id": "yixuan",
+      "name": "Yixuan",
+      "attribute": "Ether",
+      "role": "Rupture",
+      "faction": "Yunkui",
+      "synergies": [
+        "Ether",
+        "Yunkui"
+      ],
+      "image": "characters/placeholder.webp"
+    },
+    {
+      "id": "pan_yinhu",
+      "name": "Pan Yinhu",
+      "attribute": "Physical",
+      "role": "Defense",
+      "faction": "Yunkui",
+      "synergies": [
+        "Physical",
+        "Yunkui"
+      ],
+      "image": "characters/placeholder.webp"
+    }
+  ]
+}

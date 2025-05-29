@@ -1,0 +1,294 @@
+{
+  "bangboos": [
+    {
+      "id": "agent_gulliver",
+      "name": "Agent Gulliver",
+      "faction": "Section 6",
+      "type": "Support",
+      "attribute": "Electric",
+      "bonus": ["Energy", "Mobility"],
+      "recommendedForRoles": ["Support"],
+      "description": "Boosts mobility and generates energy on evasion."
+    },
+    {
+      "id": "amillion",
+      "name": "Amillion",
+      "faction": "Cunning Hares",
+      "type": "Offensive",
+      "attribute": "Physical",
+      "bonus": ["Burst", "Physical"],
+      "recommendedForRoles": ["Main DPS"],
+      "description": "Increases damage for Cunning Hares members."
+    },
+    {
+      "id": "avocaboo",
+      "name": "Avocaboo",
+      "faction": null,
+      "type": "Support",
+      "attribute": "None",
+      "bonus": ["Healing"],
+      "recommendedForRoles": ["Support"],
+      "description": "Restores HP for allies periodically."
+    },
+    {
+      "id": "baddieboo",
+      "name": "Baddieboo",
+      "faction": null,
+      "type": "Offensive",
+      "attribute": "Fire",
+      "bonus": ["Burn"],
+      "recommendedForRoles": ["Main DPS"],
+      "description": "Applies burn effects to enemies."
+    },
+    {
+      "id": "bagboo",
+      "name": "Bagboo",
+      "faction": null,
+      "type": "Offensive",
+      "attribute": "Physical",
+      "bonus": ["Melee"],
+      "recommendedForRoles": ["Melee DPS"],
+      "description": "Enhances melee damage significantly."
+    },
+    {
+      "id": "bangvolver",
+      "name": "Bangvolver",
+      "faction": null,
+      "type": "Offensive",
+      "attribute": "Physical",
+      "bonus": ["Burst", "Physical"],
+      "recommendedForRoles": ["Main DPS"],
+      "description": "Boosts burst damage during chain attacks."
+    },
+    {
+      "id": "boollseye",
+      "name": "Boollseye",
+      "faction": null,
+      "type": "Offensive",
+      "attribute": "Physical",
+      "bonus": ["Precision"],
+      "recommendedForRoles": ["DPS"],
+      "description": "Improves hit accuracy and criticals."
+    },
+    {
+      "id": "booressure",
+      "name": "Booressure",
+      "faction": null,
+      "type": "Utility",
+      "attribute": "Ether",
+      "bonus": ["Stun"],
+      "recommendedForRoles": ["Control"],
+      "description": "Provides brief stun effects on enemies."
+    },
+    {
+      "id": "brawlerboo",
+      "name": "Brawlerboo",
+      "faction": null,
+      "type": "Offensive",
+      "attribute": "Physical",
+      "bonus": ["Melee"],
+      "recommendedForRoles": ["Melee DPS"],
+      "description": "Enhances melee damage significantly."
+    },
+    {
+      "id": "butler",
+      "name": "Butler",
+      "faction": "Victoria Housekeeping Co.",
+      "type": "Support",
+      "attribute": "Physical",
+      "bonus": ["Energy Regen"],
+      "recommendedForRoles": ["Support"],
+      "description": "Provides energy regeneration for the team."
+    },
+    {
+      "id": "cryboo",
+      "name": "Cryboo",
+      "faction": null,
+      "type": "Support",
+      "attribute": "Ice",
+      "bonus": ["Freeze"],
+      "recommendedForRoles": ["Support"],
+      "description": "Applies freeze debuffs periodically."
+    },
+    {
+      "id": "cui",
+      "name": "Officer Cui",
+      "faction": "Criminal Investigation Special Response Team",
+      "type": "Support",
+      "attribute": "None",
+      "bonus": ["Stun", "Control"],
+      "recommendedForRoles": ["Stun", "Support"],
+      "description": "Empowers CRI agents with control-oriented abilities and synergy bonuses."
+    },
+    {
+      "id": "devilboo",
+      "name": "Devilboo",
+      "faction": null,
+      "type": "Offensive",
+      "attribute": "Ether",
+      "bonus": ["Burst"],
+      "recommendedForRoles": ["Sub DPS", "Main DPS"],
+      "description": "Boosts burst damage during chain attacks."
+    },
+    {
+      "id": "electroboo",
+      "name": "Electroboo",
+      "faction": null,
+      "type": "Offensive",
+      "attribute": "Electric",
+      "bonus": ["Shock"],
+      "recommendedForRoles": ["Electric DPS"],
+      "description": "Increases shock application and damage."
+    },
+    {
+      "id": "exploreboo",
+      "name": "Exploreboo",
+      "faction": null,
+      "type": "Utility",
+      "attribute": "Ether",
+      "bonus": ["Mobility"],
+      "recommendedForRoles": ["Support", "Roaming"],
+      "description": "Improves movement and map interaction."
+    },
+    {
+      "id": "knightboo",
+      "name": "Knightboo",
+      "faction": null,
+      "type": "Tank",
+      "attribute": "Physical",
+      "bonus": ["Shield"],
+      "recommendedForRoles": ["Tank"],
+      "description": "Grants shields and burn resistance."
+    },
+    {
+      "id": "luckyboo",
+      "name": "Luckyboo",
+      "faction": null,
+      "type": "Support",
+      "attribute": "Physical",
+      "bonus": ["Crit"],
+      "recommendedForRoles": ["Main DPS"],
+      "description": "Grants increased crit chance temporarily."
+    },
+    {
+      "id": "magnetiboo",
+      "name": "Magnetiboo",
+      "faction": null,
+      "type": "Utility",
+      "attribute": "Physical",
+      "bonus": ["Control"],
+      "recommendedForRoles": ["Support"],
+      "description": "Pulls enemies together periodically."
+    },
+    {
+      "id": "paperboo",
+      "name": "Paperboo",
+      "faction": null,
+      "type": "Support",
+      "attribute": "Physical",
+      "bonus": ["Defense Debuff"],
+      "recommendedForRoles": ["Support"],
+      "description": "Reduces enemy defense on deployment."
+    },
+    {
+      "id": "penguinboo",
+      "name": "Penguinboo",
+      "faction": null,
+      "type": "Tank",
+      "attribute": "Ice",
+      "bonus": ["Slow", "Stun"],
+      "recommendedForRoles": ["Tank"],
+      "description": "Slows enemies and applies occasional stun."
+    },
+    {
+      "id": "plugboo",
+      "name": "Plugboo",
+      "faction": null,
+      "type": "Support",
+      "attribute": "Electric",
+      "bonus": ["Electric"],
+      "recommendedForRoles": ["Electric DPS"],
+      "description": "Boosts electric attribute damage."
+    },
+    {
+      "id": "red_moccus",
+      "name": "Red Moccus",
+      "faction": "Sons of Calydon",
+      "type": "Offensive",
+      "attribute": "Fire",
+      "bonus": ["Burn"],
+      "recommendedForRoles": ["Fire DPS"],
+      "description": "Applies consistent burn effect."
+    },
+    {
+      "id": "resonaboo",
+      "name": "Resonaboo",
+      "faction": null,
+      "type": "Support",
+      "attribute": "Ether",
+      "bonus": ["Anomaly"],
+      "recommendedForRoles": ["Support"],
+      "description": "Enhances anomaly effects for Ether attribute."
+    },
+    {
+      "id": "robin",
+      "name": "Robin",
+      "faction": "Mockingbird",
+      "type": "Support",
+      "attribute": "None",
+      "bonus": ["Buff Extend"],
+      "recommendedForRoles": ["Support"],
+      "description": "Extends duration of active buffs."
+    },
+    {
+      "id": "rocketboo",
+      "name": "Rocketboo",
+      "faction": "Belobog Heavy Industries",
+      "type": "Offensive",
+      "attribute": "Fire",
+      "bonus": ["Burn"],
+      "recommendedForRoles": ["Fire DPS"],
+      "description": "Applies burn effects to enemies."
+    },
+    {
+      "id": "safety",
+      "name": "Safety",
+      "faction": "Belobog Heavy Industries",
+      "type": "Offensive",
+      "attribute": "Physical",
+      "bonus": ["Burst"],
+      "recommendedForRoles": ["Main DPS"],
+      "description": "Increases damage for Belobog Heavy Industries members."
+    },
+    {
+      "id": "sharkboo",
+      "name": "Sharkboo",
+      "faction": null,
+      "type": "Tank",
+      "attribute": "Ice",
+      "bonus": ["Anomaly", "Ice"],
+      "recommendedForRoles": ["Tank"],
+      "description": "Enhances ice anomaly effects and provides tanking capabilities."
+    },
+    {
+      "id": "snappy",
+      "name": "Snap",
+      "faction": "Stars of Lyra",
+      "type": "Support",
+      "attribute": "None",
+      "bonus": ["Shield", "Energy Regen"],
+      "recommendedForRoles": ["Support"],
+      "description": "Assists Victoria agents by improving survivability and energy flow."
+    },
+    {
+      "id": "sumoboo",
+      "name": "Sumoboo",
+      "faction": null,
+      "type": "Tank",
+      "attribute": "Physical",
+      "bonus": ["Knockdown"],
+      "recommendedForRoles": ["Tank"],
+      "description": "Knocks enemies to the ground with heavy blows."
+    }
+  ]
+}

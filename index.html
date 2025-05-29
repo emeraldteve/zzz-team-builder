@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <link rel="icon" href="favicon.png" type="image/png">
+  <title>ZZZ Team Builder</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>ZZZ Team Builder</h1>
+  </header>
+
+  <section id="character-select-area" class="character-select"></section>
+
+  <section id="suggestions-container">
+    <h2 id="suggestions-title">Suggested Characters</h2>
+    <div id="suggested-characters" class="card-grid"></div>
+  </section>
+
+  <section id="bangboo-suggestions" style="display: none;">
+    <h2>Bangboo Recommendations</h2>
+    <div id="bangboo-list" class="card-grid"></div>
+  </section>
+
+  <!-- Modal for character selection -->
+  <div id="character-modal" class="modal hidden">
+    <div class="modal-content">
+      <button id="modal-close" class="close-button">×</button>
+      <h2>Select a Character</h2>
+      <input type="text" id="character-search" placeholder="Search characters..." />
+      <div id="modal-character-grid" class="card-grid"></div>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
