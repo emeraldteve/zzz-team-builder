@@ -459,7 +459,7 @@
       "name": "Ju Fufu",
       "attribute": "Fire",
       "role": "Stun",
-      "faction": "Yunkui",
+      "faction": "Yunkui Summit",
       "synergies": [
         "Fire",
         "Yunkui"
@@ -471,24 +471,24 @@
       "name": "Yixuan",
       "attribute": "Ether",
       "role": "Rupture",
-      "faction": "Yunkui",
+      "faction": "Yunkui Summit",
       "synergies": [
         "Ether",
         "Yunkui"
       ],
-      "image": "characters/placeholder.webp"
+      "image": "characters/Yixuan.png"
     },
     {
       "id": "pan_yinhu",
       "name": "Pan Yinhu",
       "attribute": "Physical",
       "role": "Defense",
-      "faction": "Yunkui",
+      "faction": "Yunkui Summit",
       "synergies": [
         "Physical",
         "Yunkui"
       ],
-      "image": "characters/placeholder.webp"
+      "image": "characters/Pan_Yinhu.png"
     }
   ]
 }
