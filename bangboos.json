@@ -289,6 +289,16 @@
       "bonus": ["Knockdown"],
       "recommendedForRoles": ["Tank"],
       "description": "Knocks enemies to the ground with heavy blows."
+    },
+    {
+      "id": "belion",
+      "name": "Belion",
+      "faction": "Yunkui Summit",
+      "type": "Offensive",
+      "attribute": "Physical",
+      "bonus": ["Knockdown"],
+      "recommendedForRoles": ["Main DPS"],
+      "description": "Reduces cooldowns as well as increases damage."
     }
   ]
 }
